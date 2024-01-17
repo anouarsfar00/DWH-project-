@@ -1,0 +1,12 @@
+
+Connected to: Oracle Database 10g Enterprise Edition Release 10.2.0.3.0 - Production
+With the Partitioning, OLAP and Data Mining options
+Export done in WE8ISO8859P1 character set and AL16UTF16 NCHAR character set
+server uses WE8MSWIN1252 character set (possible charset conversion)
+
+About to export specified tables via Conventional Path ...
+. . exporting table                   STOCK_CENTRE      72110 rows exported
+EXP-00091: Exporting questionable statistics.
+EXP-00091: Exporting questionable statistics.
+EXP-00091: Exporting questionable statistics.
+Export terminated successfully with warnings.
